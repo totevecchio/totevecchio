@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sebastian Vecchio
-- 👀 I’m interested in React fron-end and Node.js back-end. Currently putting my focus in React.
+- 👀 I’m interested in React fron-end and Node.js back-end development.
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on React proyects that give me more expirience and practice.
 - 📫 How to reach me: Sebastianvecchio5@gmail.com
